@@ -52,5 +52,5 @@ body {
     color: #95999C;
 }
 
-.menu-lateral__link :: {
+.menu-lateral__link ::before {
 }
