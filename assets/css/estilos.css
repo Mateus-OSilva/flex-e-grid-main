@@ -52,10 +52,11 @@ body {
     color: #95999C;
     padding-left: 64px;
     display: flex;
+    align-items: center;
 }
 
 .menu-lateral__link::before {
-    content: "";
+    content: "\e904";
     width: 24px;
     height: 24px;
     font-size: 24px;
