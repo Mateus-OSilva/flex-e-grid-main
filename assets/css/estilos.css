@@ -63,3 +63,27 @@ body {
     position: absolute;
     left: 24px;
 }
+
+.menu-lateral__link--inicio {
+    content: "";
+}
+
+.menu-lateral__link--videos {
+    content: "";
+}
+
+.menu-lateral__link--picos {
+    content: "";
+}
+
+.menu-lateral__link--integrantes {
+    content: "";
+}
+
+.menu-lateral__link--camisas {
+    content: "";
+}
+
+.menu-lateral__link--pinturas {
+    content: "";
+}
